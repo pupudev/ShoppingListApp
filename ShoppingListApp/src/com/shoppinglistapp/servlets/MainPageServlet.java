@@ -1,4 +1,4 @@
-package com.shoppinglistapp.servelts;
+package com.shoppinglistapp.servlets;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
